@@ -20,6 +20,6 @@ public class Ficcao extends LivrariaDevas {
 	
 	public void imprimirNovaInfo2()
 	{
-		System.out.println("\nOutros livros famosos da autora(o): "+outrosLivros);
+		System.out.println("\nOutros livros famosos da autora(o): "+getOutrosLivros);
 	}
 }
