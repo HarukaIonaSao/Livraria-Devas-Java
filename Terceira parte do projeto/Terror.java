@@ -21,7 +21,7 @@ private String outrosLivros;
 	
 	public void imprimirNovaInfo3() 
 	{
-		System.out.println("\nOutros livros famosos da autora(o): "+getOutrosLivros);
+		System.out.println("\nOutros livros famosos da autora(o): "+outrosLivros);
 	}
 	
 }
