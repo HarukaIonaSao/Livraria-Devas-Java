@@ -21,6 +21,6 @@ public class Romance extends LivrariaDevas{
 	
 	public void imprimirNovaInfo()
 	{
-		System.out.println("\nOutros livros famosos da autora(o): "+outrosLivros);
+		System.out.println("\nOutros livros famosos da autora(o): "+getOutrosLivros);
 	}
 }
